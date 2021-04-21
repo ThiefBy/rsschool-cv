@@ -7,3 +7,9 @@ Email: <thief.by@gmail.com> <br>
 * .NET Core
 * SQL Server
 * JavaScript, TypeScript
+
+## Code examples
+### Hello world:
+```javascript 
+console.log('Hello World!!!');
+```
